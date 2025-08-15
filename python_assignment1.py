@@ -1,3 +1,5 @@
+my_dict = {}
+print(type(my_dict))
 while True:
         # 1. Convert inputs to numbers immediately after receiving them.
         num_1 = float(input("Enter the first number: "))
